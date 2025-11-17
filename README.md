@@ -41,5 +41,6 @@ Two separate bar charts highlight the top-performing products—one based on sal
 A bar chart shows which cities generate the most profit, enabling a quick view of geographic performance.
 
 
+<img width="1280" height="721" alt="Screenshot 2025-11-17 181505" src="https://github.com/user-attachments/assets/b94e9b1b-3819-4475-a8de-98aa3c711109" />
 
 
